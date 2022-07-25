@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 --->
 11
 
-- 🌱 Atualmente estou aprendendo 2 idiomas.
+- 🌱 Atualmente estou aprendendo 3 idiomas.
 - 💞️ Eu gosto de silencio.
 - 📫 camila.biancanatel.carvalho@escola.pr.gov.br
 
